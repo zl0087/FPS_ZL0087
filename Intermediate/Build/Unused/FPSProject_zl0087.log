@@ -1,0 +1,17 @@
+﻿  Performing 9 actions (4 in parallel)
+  PCH.FPSProject_zl0087.FPSProject_zl0087.h.cpp
+  FPSCharacter.cpp
+  FPSProject_zl0087.generated.cpp
+  FPSProjectile.cpp
+  FPSProject_zl0087GameMode.cpp
+D:\Game Program\4220\My Repo\MyProject\FPSProject_zl0087\Source\FPSProject_zl0087\FPSHUD.h(16): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+d:\game program\4220\my repo\myproject\fpsproject_zl0087\source\fpsproject_zl0087\FPSHUD.h(16): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+  FPSHUD.cpp
+d:\game program\4220\my repo\myproject\fpsproject_zl0087\source\fpsproject_zl0087\FPSHUD.h(16): warning C4996: OVERRIDE macro is deprecated. Please use override keyword instead.
+  FPSProject_zl0087.cpp
+  AutoStartupModuleListGetter.generated.cpp
+  [9/9] Link UE4Editor-FPSProject_zl0087.dll
+     Creating library D:\Game Program\4220\My Repo\MyProject\FPSProject_zl0087\Intermediate\Build\Win64\FPSProject_zl0087Editor\Development\UE4Editor-FPSProject_zl0087.lib and object D:\Game Program\4220\My Repo\MyProject\FPSProject_zl0087\Intermediate\Build\Win64\FPSProject_zl0087Editor\Development\UE4Editor-FPSProject_zl0087.exp
+  -------- End Detailed Actions Stats -----------------------------------------------------------
+  Cumulative action seconds (8 processors): 0.00 building projects, 30.87 compiling, 0.00 creating app bundles, 0.00 generating debug info, 0.97 linking, 0.00 other
+  UBT execution time: 70.69 seconds

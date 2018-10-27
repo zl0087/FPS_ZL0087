@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FPSProject_zl0087.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D0A5668C-DF23-43EA-B2BB-8B6F7E3BF348}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FPSProject_zl0087.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FPSProject_zl0087Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{2AE457BB-2356-478C-BE70-E7D0B7580612}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FPSProject_zl0087">
+			<UniqueIdentifier>{7B25AF28-59AD-4416-9DA5-C5B243FD4477}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\FPSProject_zl0087\FPSCharacter.cpp">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FPSProject_zl0087\FPSCharacter.h">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FPSProject_zl0087\FPSHUD.cpp">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FPSProject_zl0087\FPSHUD.h">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FPSProject_zl0087\FPSProjectile.cpp">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FPSProject_zl0087\FPSProjectile.h">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\FPSProject_zl0087\FPSProject_zl0087.Build.cs">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FPSProject_zl0087\FPSProject_zl0087.cpp">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FPSProject_zl0087\FPSProject_zl0087.h">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FPSProject_zl0087\FPSProject_zl0087GameMode.cpp">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FPSProject_zl0087\FPSProject_zl0087GameMode.h">
+			<Filter>Source\FPSProject_zl0087</Filter>
+		</ClInclude >
+		<Filter Include="Source\FPSProject_zl0087\Resources">
+			<UniqueIdentifier>{3DDB1432-1D0B-4776-AEFF-401F0E960032}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\FPSProject_zl0087\Resources\Windows">
+			<UniqueIdentifier>{3C39BEF8-931E-4935-A25D-9D6BF593C934}</UniqueIdentifier>
+		</Filter>
+		<ResourceCompile Include="..\..\Source\FPSProject_zl0087\Resources\Windows\FPSProject_zl0087.rc">
+			<Filter>Source\FPSProject_zl0087\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
